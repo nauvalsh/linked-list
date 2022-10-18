@@ -1,0 +1,11 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "rm -rf dist && tsc && node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
